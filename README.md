@@ -1,5 +1,9 @@
-initialize npm
+#initialize npm
+
 npm init
-use npm module
+
+##use npm module
+
 npm install --save "module name" for e.g bootstrap, polymer, angular
-create index file
+
+###create index file
